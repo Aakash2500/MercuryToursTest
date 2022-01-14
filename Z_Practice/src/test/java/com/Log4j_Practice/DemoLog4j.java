@@ -18,6 +18,9 @@ public class DemoLog4j {
 		
 		log.fatal("FFFFFFFFFFFFFFFFFFFFFFFFF");
 		log.fatal("MMMMMMMMMMMMMMMMMMMM");
+		
+		log.fatal("FFFFFFFFFFFFFFFFFFFFFFFFF");
+		log.fatal("MMMMMMMMMMMMMMMMMMMM");
 
 	}
 }
