@@ -48,5 +48,14 @@ public class Console_Apender {
 		log.warn("bbbbbbbbbbbbbbb");
 		log.error("ccccccccccccc");
 		log.fatal("ddddddddddddd");
+		
+		
+	}
+	
+	@Test
+	public void m4()
+	{
+		log.info("check updatted");
+		log.warn("okkkkk or not ok check");
 	}
 }
