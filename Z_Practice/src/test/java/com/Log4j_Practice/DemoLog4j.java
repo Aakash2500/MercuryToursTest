@@ -15,6 +15,9 @@ public class DemoLog4j {
 		log.warn("bbbbbbbbbbbbbbb");
 		log.error("ccccccccccccc");
 		log.fatal("ddddddddddddd");
+		
+		log.fatal("FFFFFFFFFFFFFFFFFFFFFFFFF");
+		log.fatal("MMMMMMMMMMMMMMMMMMMM");
 
 	}
 }
