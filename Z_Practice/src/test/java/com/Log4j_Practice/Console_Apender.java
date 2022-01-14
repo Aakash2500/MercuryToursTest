@@ -56,6 +56,6 @@ public class Console_Apender {
 	public void m4()
 	{
 		log.info("check updatted");
-		log.warn("okkkkk or not ok check");
+		
 	}
 }
