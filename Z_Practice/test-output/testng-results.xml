@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23722" started-at="2022-01-14T05:54:44Z" finished-at="2022-01-14T05:55:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23722" started-at="2022-01-14T05:54:44Z" finished-at="2022-01-14T05:55:07Z">
+      <class name="com.test.MercuryLoginTest">
+        <test-method status="PASS" signature="loginTest1()[pri:0, instance:com.test.MercuryLoginTest@2e4b8173]" name="loginTest1" duration-ms="23650" started-at="2022-01-14T05:54:44Z" finished-at="2022-01-14T05:55:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest1 -->
+      </class> <!-- com.test.MercuryLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
